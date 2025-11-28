@@ -1,20 +1,20 @@
 {
   "mappings": [
-    "/content/luma3/language-masters/en:/",
-    "/content/luma3/language-masters/en/:/en/",
-    "/content/luma3/language-masters/fr/:/fr/",
-    "/content/luma3/language-masters/fr:/fr",
-    "/content/luma3/language-masters/es/:/es/",
-    "/content/luma3/language-masters/es:/es",
-    "/content/luma3/language-masters/ja/:/ja/",
-    "/content/luma3/language-masters/ja:/ja",
-    "/content/luma3/language-masters/de/:/de/",
-    "/content/luma3/language-masters/de:/de",
-    "/content/luma3/configuration:/.helix/config.json",
-    "/content/luma3/metadata:/metadata.json",
-    "/content/luma3/redirects:/redirects.json",
-    "/content/luma3/placeholders:/placeholders.json",
-    "/content/luma3/custom-events:/custom-events.json"
+    "/content/admin-lumaedstestvikas/language-masters/en:/",
+    "/content/admin-lumaedstestvikas/language-masters/en/:/en/",
+    "/content/admin-lumaedstestvikas/language-masters/fr/:/fr/",
+    "/content/admin-lumaedstestvikas/language-masters/fr:/fr",
+    "/content/admin-lumaedstestvikas/language-masters/es/:/es/",
+    "/content/admin-lumaedstestvikas/language-masters/es:/es",
+    "/content/admin-lumaedstestvikas/language-masters/ja/:/ja/",
+    "/content/admin-lumaedstestvikas/language-masters/ja:/ja",
+    "/content/admin-lumaedstestvikas/language-masters/de/:/de/",
+    "/content/admin-lumaedstestvikas/language-masters/de:/de",
+    "/content/admin-lumaedstestvikas/configuration:/.helix/config.json",
+    "/content/admin-lumaedstestvikas/metadata:/metadata.json",
+    "/content/admin-lumaedstestvikas/redirects:/redirects.json",
+    "/content/admin-lumaedstestvikas/placeholders:/placeholders.json",
+    "/content/admin-lumaedstestvikas/custom-events:/custom-events.json"
   ],
-  "includes": ["/content/luma3/", "/content/dam/luma3/"]
+  "includes": ["/content/admin-lumaedstestvikas/", "/content/dam/admin-lumaedstestvikas/"]
 }
